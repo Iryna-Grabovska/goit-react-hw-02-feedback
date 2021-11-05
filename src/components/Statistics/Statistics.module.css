@@ -1,0 +1,9 @@
+.statisticsItem__s {
+  size: 18px;
+  font-weight: 500;
+  color: blue;
+}
+.statisticsTotal {
+  color: blue;
+  font-weight: 500;
+}
